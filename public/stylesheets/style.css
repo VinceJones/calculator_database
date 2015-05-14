@@ -1,0 +1,31 @@
+.calcDisplay {
+  height: 300px;
+  width: 270px;
+  background-color: rgba(72, 81, 74, 1);
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.num {
+  height: 50px;
+  width: 50px;
+  font-size: 24px;
+  text-align: center;
+  margin: 5px;
+}
+
+.calcTextbox {
+  height: 50px;
+  width: 215px;
+  border: 2px solid black;
+  margin: 0px auto;
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-size: 24px;
+}
+
+.calcButtons {
+  margin: 5px 0 5px 30px;
+}
